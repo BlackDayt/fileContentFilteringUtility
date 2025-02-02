@@ -1,4 +1,4 @@
-package dev.avagimov.utils;
+package dev.utils;
 
 import java.io.IOException;
 import java.util.*;

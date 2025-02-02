@@ -1,4 +1,4 @@
-package dev.avagimov.utils;
+package dev.utils;
 
 import java.io.*;
 import java.nio.file.Files;

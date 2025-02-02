@@ -1,5 +1,7 @@
-import dev.avagimov.utils.Processor;
-import dev.avagimov.utils.Utility;
+package utilsTests;
+
+import dev.utils.Processor;
+import dev.utils.Utility;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

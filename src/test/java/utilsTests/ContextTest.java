@@ -1,4 +1,6 @@
-import dev.avagimov.utils.Context;
+package utilsTests;
+
+import dev.utils.Context;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;

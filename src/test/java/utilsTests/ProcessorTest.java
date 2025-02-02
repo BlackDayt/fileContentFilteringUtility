@@ -1,5 +1,7 @@
-import dev.avagimov.utils.Context;
-import dev.avagimov.utils.Processor;
+package utilsTests;
+
+import dev.utils.Context;
+import dev.utils.Processor;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.*;
